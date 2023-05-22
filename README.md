@@ -1,6 +1,6 @@
 <a href="https://ibb.co/bdKZJnD"><img src="https://i.ibb.co/2KkQNBH/Blue-Pink-Gradient-Fashion-Banner-2.png" alt="Blue-Pink-Gradient-Fashion-Banner-2" border="0"></a>
 # 💫 About Me:
-🔭 I’m currently working on a Full Stack Project and i am junior coordinator at CSS Society,NIT DURGAPUR.
+🔭 I’m currently working on a Full Stack Project and i am a junior coordinator at CSS Society,NIT DURGAPUR.
 
 🌱 I’m currently learning React,DSA,Graphic Design,Video Editing,Figma and Canva
 

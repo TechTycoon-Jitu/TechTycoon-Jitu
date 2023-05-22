@@ -3,7 +3,7 @@
 # 💫 About Me:
 🔭 I’m currently working on a Full Stack Project and i am a junior coordinator at CSS Society,NIT DURGAPUR.
 
-🌱 I’m currently learning React,DSA,Graphic Design,Video Editing,Figma and Canva
+🌱 I’m currently learning JS,React,DSA,Graphic Design,Video Editing,Figma and Canva
 
 👯 I’m looking to collaborate on open source
 

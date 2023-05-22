@@ -8,7 +8,7 @@
 
 💬 Ask me about DSA,Video Editing,Graphic Design and any CSE releated tropic
 
-📫 How to reach me sanketmondal893@gmail.com and also <a href="https://www.instagram.com/your_username](https://www.instagram.com/sanket__mondal18/">my Instagram</a> and <a href="https://www.instagram.com/your_username](https://www.facebook.com/anirban.chakraborty.12914216">Facebook</a>
+📫 How to reach me sanketmondal893@gmail.com and also through my instragram and facebook profile that has given my Margin.
 
 
 ⚡ “You can get everything in life you want if you will just help enough other people get what they want.” 

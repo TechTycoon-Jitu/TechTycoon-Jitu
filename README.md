@@ -1,16 +1,17 @@
 <a href="https://ibb.co/bdKZJnD"><img src="https://i.ibb.co/2KkQNBH/Blue-Pink-Gradient-Fashion-Banner-2.png" alt="Blue-Pink-Gradient-Fashion-Banner-2" border="0"></a>
 # 💫 About Me:
-🔭 I’m currently working on a Full Stack Project
+🔭 I’m currently working on a Full Stack Project and i am junior coordinator at CSS Society,NIT DURGAPUR.
 
-🌱 I’m currently learning React and DSA
+🌱 I’m currently learning React,DSA,Graphic Design,Video Editing,Figma and Canva
 
 👯 I’m looking to collaborate on open source
 
-💬 Ask me about DSA
+💬 Ask me about DSA,Video Editing,Graphic Design and any CSE releated tropic
 
-📫 How to reach me sanketmondal893@gmail.com
+📫 How to reach me sanketmondal893@gmail.com and also <a href="https://www.instagram.com/your_username](https://www.instagram.com/sanket__mondal18/">my Instagram</a> and <a href="https://www.instagram.com/your_username](https://www.facebook.com/anirban.chakraborty.12914216">Facebook</a>
 
-⚡ Fun fact I don't use github
+
+⚡ “You can get everything in life you want if you will just help enough other people get what they want.” 
 
 
 

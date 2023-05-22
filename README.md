@@ -1,4 +1,5 @@
-<a href="https://ibb.co/bdKZJnD"><img src="https://i.ibb.co/2KkQNBH/Blue-Pink-Gradient-Fashion-Banner-2.png" alt="Blue-Pink-Gradient-Fashion-Banner-2" border="0"></a>
+<a href="https://ibb.co/MD5d1H5"><img src="https://i.ibb.co/rGf9phf/Minimal-Technology-on-A-Dark-Blue-Background-banner-landscape.png" alt="Minimal-Technology-on-A-Dark-Blue-Background-banner-landscape" border="0"></a>
+<br>
 # 💫 About Me:
 🔭 I’m currently working on a Full Stack Project and i am a junior coordinator at CSS Society,NIT DURGAPUR.
 

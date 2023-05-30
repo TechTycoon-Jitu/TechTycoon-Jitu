@@ -10,6 +10,7 @@
 
 📫 How to reach me sanketmondal893@gmail.com and also through my instragram and facebook profile that has given my Margin.
 
+✨ <a href="https://www.instagram.com/sanket__mondal18/" target="_blank">Follow me on Instagram</a>
 
 ⚡ “You can get everything in life you want if you will just help enough other people get what they want.” 
 

@@ -1,6 +1,6 @@
 <a href="https://www.linkpicture.com/view.php?img=LPic64748e34793c92027962874"><img src="https://www.linkpicture.com/q/Sanket-Github-Banner.png" type="image"></a>
 <h1 align="center">Hi 👋,I'am TechTycoon-Jitu</h1>
-<img align="auto" alt="Coding" width="1000" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="auto" alt="Coding" width="auto" height = "auto" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 # 💫 About Me:
 🔭 I’m currently working on a Full Stack Project and i am a junior coordinator at CSS Society,NIT DURGAPUR.
